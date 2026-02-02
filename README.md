@@ -12,7 +12,7 @@ A Spring Boot banking application handling accounts, deposits, withdrawals, and 
 | :--- | :--- | :--- |
 | **Fady Riad Shokrallah** | Team Leader & Backend | 21136534 |
 | **Habiba Mohamed Abdullah** | Frontend / UI | 21077701 |
-| **[Member 3 Name]** | Testing (Selenium/Jira) | [Their ID] |
+| **nouran hossameldin said** | Testing (Selenium/Jira) | 21079183 |
 | **[Member 4 Name]** | Database & API | [Their ID] |
 
 ---
