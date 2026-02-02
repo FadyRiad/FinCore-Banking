@@ -10,8 +10,8 @@ A Spring Boot banking application handling accounts, deposits, withdrawals, and 
 
 | Name | Role | GitHub Username | DEPI ID |
 | :--- | :--- | :--- | :--- |
-| **[Fady Riad]** | Team Leader & Backend | @[YourUsername] | [Your ID] |
-| **[Member 2 Name]** | Frontend / UI | @[TheirUsername] | [Their ID] |
+| **Fady Riad Shokrallah** | Team Leader & Backend |  Student Code: 21136534 |
+| **Habiba Mohamed Abdullah** | Frontend / UI | Student Code: 21077701 |
 | **[Member 3 Name]** | Testing (Selenium/Jira) | @[TheirUsername] | [Their ID] |
 | **[Member 4 Name]** | Database & API | @[TheirUsername] | [Their ID] |
 
