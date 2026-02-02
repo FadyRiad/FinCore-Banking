@@ -1,4 +1,4 @@
-# FinCore-Banking
+<img width="3786" height="876" alt="image" src="https://github.com/user-attachments/assets/9bf7b744-feea-4d8a-886c-18825d0ab4f9" /># FinCore-Banking
 ### Spring Boot Banking System - DEPI Capstone Project 
 
 **Project Description:**
@@ -10,10 +10,12 @@ A Spring Boot banking application handling accounts, deposits, withdrawals, and 
 
 | Name | Role | DEPI ID |
 | :--- | :--- | :--- |
-| **Fady Riad Shokrallah** | Team Leader & Backend | 21136534 |
-| **Habiba Mohamed Abdullah** | Frontend / UI | 21077701 |
-| **[Member 3 Name]** | Testing (Selenium/Jira) | [Their ID] |
-| **[Member 4 Name]** | Database & API | [Their ID] |
+| **Fady Riad Shokrallah** | Team Leader | 21136534 |
+| **Habiba Mohamed Abdullah** | - | 21077701 |
+| **Ahmed Samy Mohamed** | - | 21118179 |
+| **Mohamed Ahmed Taha** | - | 21073139 |
+| **Nouran Hossam Eldin Said** | - | 21079183 |
+| **Judy Abdelhalim Fathallah** | - | 21120080 |
 
 ---
 
