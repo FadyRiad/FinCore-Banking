@@ -1,4 +1,4 @@
-<img width="3786" height="876" alt="image" src="https://github.com/user-attachments/assets/9bf7b744-feea-4d8a-886c-18825d0ab4f9" /># FinCore-Banking
+# FinCore-Banking
 ### Spring Boot Banking System - DEPI Capstone Project 
 
 **Project Description:**
